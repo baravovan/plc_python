@@ -1,0 +1,8 @@
+flask
+apscheduler
+flask_cors
+datetime
+pylogix
+pytz
+pandas
+openpyxl
